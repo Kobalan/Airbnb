@@ -28,6 +28,6 @@
 
 ### Dashboard Pic
 
-![image](https://github.com/IamJafar/Airbnb_Analysis/assets/121713702/707d2d2a-0232-4e6c-94c6-2a9bddd55eba)
+![image](https://github.com/Kobalan/Airbnb/blob/31ed2ac3af6716a46b651dbcbb3691973670108b/Tableau%20DB.PNG)
 
 
