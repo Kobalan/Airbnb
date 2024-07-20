@@ -1,6 +1,6 @@
 
-mysql-connector-python=8.3.0
-plotly-express=0.4.1
+mysql-connector-python==8.3.0
+plotly-express==0.4.1
 pandas==2.1.0
 pymongo==4.5.0
 plotly==5.16.1
