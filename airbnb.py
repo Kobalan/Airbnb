@@ -5,10 +5,8 @@ import pymongo as py
 import mysql.connector as sql
 import plotly.express as px
 import streamlit as st
-from streamlit_option_menu import option_menu
 import plotly.graph_objects as go
-import plotly.figure_factory as ff
-import streamlit.components.v1 as components
+
 
 
 #2.SQL
