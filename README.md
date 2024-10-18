@@ -88,6 +88,4 @@ Contributions to this project are welcome! If you encounter any issues or have s
 
 🌐 LinkedIn:https://www.linkedin.com/in/kobalan-m-106267227/
 
-For any further questions or inquiries, feel free to reach out. We are happy to assist you with any queries.
-
 ![](https://github.com/Kobalan/Airbnb/blob/main/Tableau%20DB.PNG)
