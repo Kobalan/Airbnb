@@ -90,4 +90,4 @@ Contributions to this project are welcome! If you encounter any issues or have s
 
 For any further questions or inquiries, feel free to reach out. We are happy to assist you with any queries.
 
-![](https://github.com/gopiashokan/Airbnb-Analysis/blob/main/tableau_dashboard.png)
+![](https://github.com/Kobalan/Airbnb/blob/main/Tableau%20DB.PNG)
